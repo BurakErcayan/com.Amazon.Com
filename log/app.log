@@ -1,0 +1,80 @@
+17:52:49.609 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+17:53:18.012 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+17:54:07.826 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+17:59:04.903 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:01:32.230 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:02:30.846 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:36:28.430 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:37:34.744 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:38:12.360 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:39:31.548 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:40:18.507 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:41:08.432 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:42:59.386 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:44:39.908 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+18:56:51.754 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:03:15.009 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:03:45.421 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:36:41.972 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:38:02.192 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:41:35.379 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:43:51.565 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:47:54.473 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:48:58.975 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+19:53:09.378 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+20:35:36.498 [main]INFO  Test.amazonTest - Step 1: Opening the browser and navigating to the URL
+21:39:51.191 [main]INFO  Test.amazonTest - Amazon.com.tr sayfasına gidildi
+21:39:52.352 [main]INFO  Test.amazonTest - Çerezler reddedildi
+21:39:54.468 [main]INFO  Test.amazonTest - Arama Kutusuna Samsung Yazdırıp Aratıldı.
+21:39:56.430 [main]INFO  Test.amazonTest - Aranan Sayfanın Geldiği Doğrulandı
+21:39:58.501 [main]INFO  Test.amazonTest - Slider da 2. Sayfaya Tıklandı
+21:40:03.674 [main]INFO  Test.amazonTest - 2. Sayfada Olduğu Doğrulandı
+21:40:07.747 [main]INFO  Test.amazonTest - Ürün Listesinde 5. Satırın ilk ürünününe Tıklandı ve Tıklanan Ürünle Açılan Sayfa Karşılaştırıldı
+21:40:11.184 [main]INFO  Test.amazonTest - Sepete Ekle Butonuna Tıklandı
+21:40:14.844 [main]INFO  Test.amazonTest - Ürünün Sepete Eklendiği Doğrulandı
+21:40:16.895 [main]INFO  Test.amazonTest - Amazon Logosuna Tıklandı
+00:47:53.782 [main]INFO  Test.amazonTest - Amazon.com.tr sayfasına gidildi
+00:47:56.702 [main]INFO  Test.amazonTest - Çerezler reddedildi
+00:47:58.841 [main]INFO  Test.amazonTest - Arama Kutusuna Samsung Yazdırıp Aratıldı.
+00:48:00.178 [main]INFO  Test.amazonTest - Aranan Sayfanın Geldiği Doğrulandı
+00:48:02.243 [main]INFO  Test.amazonTest - Slider da 2. Sayfaya Tıklandı
+00:48:07.442 [main]INFO  Test.amazonTest - 2. Sayfada Olduğu Doğrulandı
+00:48:11.526 [main]INFO  Test.amazonTest - Ürün Listesinde 5. Satırın ilk ürünününe Tıklandı ve Tıklanan Ürünle Açılan Sayfa Karşılaştırıldı
+00:48:14.294 [main]INFO  Test.amazonTest - Sepete Ekle Butonuna Tıklandı
+00:48:18.107 [main]INFO  Test.amazonTest - Ürünün Sepete Eklendiği Doğrulandı
+00:48:20.168 [main]INFO  Test.amazonTest - Amazon Logosuna Tıklandı
+09:49:21.244 [main]INFO  Test.amazonTest - Amazon.com.tr sayfasına gidildi
+09:49:23.301 [main]INFO  Test.amazonTest - Çerezler reddedildi
+09:49:25.405 [main]INFO  Test.amazonTest - Arama Kutusuna Samsung Yazdırıp Aratıldı.
+09:49:26.854 [main]INFO  Test.amazonTest - Aranan Sayfanın Geldiği Doğrulandı
+09:49:28.918 [main]INFO  Test.amazonTest - Slider da 2. Sayfaya Tıklandı
+09:49:34.076 [main]INFO  Test.amazonTest - 2. Sayfada Olduğu Doğrulandı
+09:49:38.143 [main]INFO  Test.amazonTest - Ürün Listesinde 5. Satırın ilk ürünününe Tıklandı ve Tıklanan Ürünle Açılan Sayfa Karşılaştırıldı
+09:49:42.447 [main]INFO  Test.amazonTest - Sepete Ekle Butonuna Tıklandı
+09:50:32.026 [main]INFO  Test.amazonTest - Amazon.com.tr sayfasına gidildi
+09:50:34.018 [main]INFO  Test.amazonTest - Çerezler reddedildi
+09:50:36.115 [main]INFO  Test.amazonTest - Arama Kutusuna Samsung Yazdırıp Aratıldı.
+09:50:37.546 [main]INFO  Test.amazonTest - Aranan Sayfanın Geldiği Doğrulandı
+09:50:39.615 [main]INFO  Test.amazonTest - Slider da 2. Sayfaya Tıklandı
+09:50:44.794 [main]INFO  Test.amazonTest - 2. Sayfada Olduğu Doğrulandı
+09:50:49.432 [main]INFO  Test.amazonTest - Ürün Listesinde 5. Satırın ilk ürünününe Tıklandı ve Tıklanan Ürünle Açılan Sayfa Karşılaştırıldı
+09:54:14.475 [main]INFO  Test.amazonTest - Amazon.com.tr sayfasına gidildi
+09:54:16.666 [main]INFO  Test.amazonTest - Çerezler reddedildi
+09:54:18.782 [main]INFO  Test.amazonTest - Arama Kutusuna Samsung Yazdırıp Aratıldı.
+09:54:23.443 [main]INFO  Test.amazonTest - Aranan Sayfanın Geldiği Doğrulandı
+09:54:25.513 [main]INFO  Test.amazonTest - Slider da 2. Sayfaya Tıklandı
+09:54:30.695 [main]INFO  Test.amazonTest - 2. Sayfada Olduğu Doğrulandı
+09:54:34.762 [main]INFO  Test.amazonTest - Ürün Listesinde 5. Satırın ilk ürünününe Tıklandı ve Tıklanan Ürünle Açılan Sayfa Karşılaştırıldı
+09:54:37.755 [main]INFO  Test.amazonTest - Sepete Ekle Butonuna Tıklandı
+09:54:40.944 [main]INFO  Test.amazonTest - Ürünün Sepete Eklendiği Doğrulandı
+09:54:42.999 [main]INFO  Test.amazonTest - Amazon Logosuna Tıklandı
+09:56:03.423 [main]INFO  Test.amazonTest - Amazon.com.tr sayfasına gidildi
+09:56:05.105 [main]INFO  Test.amazonTest - Çerezler reddedildi
+09:56:07.206 [main]INFO  Test.amazonTest - Arama Kutusuna Samsung Yazdırıp Aratıldı.
+09:56:11.497 [main]INFO  Test.amazonTest - Aranan Sayfanın Geldiği Doğrulandı
+09:56:13.565 [main]INFO  Test.amazonTest - Slider da 2. Sayfaya Tıklandı
+09:56:18.741 [main]INFO  Test.amazonTest - 2. Sayfada Olduğu Doğrulandı
+09:56:22.841 [main]INFO  Test.amazonTest - Ürün Listesinde 5. Satırın ilk ürünününe Tıklandı ve Tıklanan Ürünle Açılan Sayfa Karşılaştırıldı
+09:56:31.668 [main]INFO  Test.amazonTest - Sepete Ekle Butonuna Tıklandı
+09:56:34.623 [main]INFO  Test.amazonTest - Ürünün Sepete Eklendiği Doğrulandı
+09:56:36.679 [main]INFO  Test.amazonTest - Amazon Logosuna Tıklandı
